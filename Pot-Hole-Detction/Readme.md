@@ -19,7 +19,3 @@ Potholes may result from four main causes:
 ### Working 
 We can classify the dataset which either download from kaggle or built your own. After that save the model for future use. Open camera so that we can detect real time pot hole. This method is also applicable on images. Taking the input from camera and processed it using CNN and predict with model which is already saved. This process will return the class name and probability. Used class name and probability as output. The output will classify into three categories that are:<br> 1. Pot-Hole<br>2. Plain-Road<br>3. None<br>
 
-### Outputs
-<img src="../templet/pot-hole1.jpeg" alt="pot-hole-output" hight="250px" width="250px"/><br>
-<img src="../templet/pot-hole2.jpeg" alt="pot-hole-output" hight="250px" width="250px"/><br>
-<img src="../templet/pot-hole3.jpeg" alt="pot-hole-output" hight="250px" width="250px"/><br>

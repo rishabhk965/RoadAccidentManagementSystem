@@ -57,9 +57,6 @@ This module will also work with system camera. To access the system camera use b
     cv2.destroyAllWindows()<br>
     #release the frame<br>
     cap.release()<br>
-## Output Screenshot
-<img src="../templet/object1.jpeg" alt="Object-detction-output-1"/><br>
-<img src="../templet/object2.jpeg" alt="Object-detction-output-2"/>
 
 ## How to run the script 
 You can run this script by using cmd command, that is:<br>
