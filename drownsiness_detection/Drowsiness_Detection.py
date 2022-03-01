@@ -5,7 +5,7 @@ import imutils
 import dlib
 import cv2
 import numpy as np
-import winsound
+# import winsound
 freq=0
 dur=0
 url="http://192.168.43.1:8080/shot.jpg"
@@ -51,7 +51,7 @@ while True:
                                 for i in range(0,6):
                                         freq+=50
                                         dur+=10
-                                        winsound.Beep(freq,dur)
+                                        # winsound.Beep(freq,dur)
                 elif ear > thresh:
                         flag = 0
                         freq=0
