@@ -42,12 +42,11 @@ Indian Institute of Information Technology Ranchi
   
 #### Mentor Details
 
-<b>Mentored by | <b>  Dr. Kumari Pritee 
+<b>Mentored by | <b>  Dr. Nidhi Kushwaha 
 :--|:--|
 <b> Institute | <b> Indian Institute of Information Technology Ranchi
 <b> Department | <b> Computer Science
 <b> Area of Interest | 1. Artificial Intelligence<br>2. Natural Language Processing<br>3. Machine Learning
-<b> Email | priteekumari@iiitranchi.ac.in
 <b> Institute Portal | <a href="https://iiitranchi.ac.in/">Institute Website</a>
 
 SrNo | Name | Roll Number | Department| Institute | Email id
