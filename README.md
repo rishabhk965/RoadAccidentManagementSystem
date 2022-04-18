@@ -12,7 +12,7 @@
 
 The main objective of this Accident Control Management System is to provide an efficient system to resolve the most common real world problems which is road accidents.<br>
 This system will provides an efficient solution of all possible way of road accidents like drowsy driver, drunk and drive, wrong lane e.t.c.<br>
-This system is also includes its negative aspect and try to resolve them.
+This system also includes its negative aspect and try to resolve them.
 
 # Accident Control Management System
 <b ><i>1. Cause of Road Accident</i></b><br>
