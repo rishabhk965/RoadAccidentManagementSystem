@@ -6,7 +6,7 @@
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
 <b> Project Name | <b> Accident Control Management System
-<b> Field |     <b> 1. Machine Learning<br>2. Computer Vision<br>3. Internet of Things
+<b> Field |     <b> 1. Machine Learning<br>2. Convolutional Neural Networks<br>3. Internet of Things
 
 <h5> About the Objective of Project  : </h5>
 
